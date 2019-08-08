@@ -1,0 +1,28 @@
+div{
+width: 100px;
+height: 100px;
+border: 1px solid red;
+border-radius: 100%;
+background-image: url(../html-essentials_exercises/02/puppy.jpg);
+background-size: cover;
+}
+
+img{
+border: 10px groove orange;
+border-radius: 100%;
+}
+
+.dogone{
+border: 10px dashed orange;
+border-radius: 100%;
+}
+
+.dogtwo{
+border: 10px dotted orange;
+border-radius: 100%;
+}
+
+.dogthree{
+border: 10px double orange;
+border-radius: 100%;
+}
