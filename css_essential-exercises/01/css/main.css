@@ -1,0 +1,13 @@
+div{
+  width: 400px;
+  height: 200px;
+  border: 40px dashed red;
+  /* background-color: red; */
+  border-color: red;
+  border-radius: 20px;
+  margin: 20px auto;
+}
+
+.special{
+  box-sizing: border-box;
+}
