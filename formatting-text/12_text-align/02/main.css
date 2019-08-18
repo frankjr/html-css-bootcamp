@@ -1,13 +1,51 @@
-div{
-  width: 90%;
-  height: 3rem;
-  text-align: center;
-  border: 3px solid black;
+p{
+  font-size: 1rem;
 }
 
-h1{
-  font-size: 10rem;
-  text-shadow: 0 5px 1px red;
-  text-align: center;
-  line-height: 0px;
+#test1{
+  font-family: serif;
+  color: red;
+
+}
+
+#test2{
+  font-family: sans-serif;
+}
+
+
+#test3{
+  font-family: 'lato';
+  font-weight: 900;
+}
+
+#test4{
+  text-transform: uppercase;
+  font-style: italic;
+
+}
+
+#test5{
+  letter-spacing: 2rem;
+  color: green;
+}
+
+#test6{
+  text-shadow: 5px 5px 2px black;
+  color: blue;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+#test8{
+  text-decoration: line-through;
+}
+
+#test9{
+  text-indent: 1rem;
 }
